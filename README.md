@@ -2,7 +2,6 @@
 
 
 - [slack利用ガイドライン](slack-guideline.md)
-- [Trello利用ガイドライン](trello-guideline.md)
 
 ## Contribution
 
